@@ -7,7 +7,7 @@ See http://hacks.rewiredstate.org/events/nhtg-13/3duk
 
 ## Demo
 
-Open unemployment.blend in blender. The demo, as shown in the image above uses
+Open [unemployment.blend](https://github.com/Bjwebb/3duk/blob/master/unemployment.blend?raw=true) in blender. The demo, as shown in the image above uses
 unemployment figures, taken from the [Employment Local Profile](http://data.gov.uk/dataset/local_profiles).
 The overlay of the openstreetmap onto the screenshot was done by hand using UV
 mapping.
